@@ -15,4 +15,6 @@ My Notebooks on How to Work With Machine Learning Projects
   - train
   - predict
 - DevOps
+  - CI/CD
+  - deploy
 
