@@ -4,5 +4,6 @@ My Notebooks on How to Work With Machine Learning Projects
 ### Things that will be included here:
 - Python Libraries
 - Academic Theories: Calculus, Statistics, Etc
-- Process
+- Tensorflow
 - SageMaker
+- Process
