@@ -3,6 +3,6 @@ My Notebooks on How to Work With Machine Learning Projects
 
 ### Things that will be included here:
 - Python Libraries
-- Academic Theories: Match, Stat, Etc
+- Academic Theories: Calculus, Statistics, Etc
 - Process
 - SageMaker
