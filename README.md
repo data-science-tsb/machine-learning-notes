@@ -11,8 +11,9 @@ My Notebooks on How to Work With Machine Learning Projects
 - Process
   - data analysis
   - feature engineering
-  - encode
+  - encode (https://www.tensorflow.org/api_docs/python/tf/feature_column)
   - train
+    - batching
   - predict
 - DevOps
   - CI/CD
