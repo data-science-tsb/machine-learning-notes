@@ -1,2 +1,8 @@
-# machine-learning-notes
-End-to-end Machine Learning Process/Knowledge base
+# Machine Learning
+My Notebooks on How to Work With Machine Learning Projects
+
+### Things that will be included here:
+- Python Libraries
+- Academic Theories: Match, Stat, Etc
+- Process
+- SageMaker
