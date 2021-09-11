@@ -9,3 +9,10 @@ My Notebooks on How to Work With Machine Learning Projects
 - Tensorflow
 - SageMaker
 - Process
+  - data analysis
+  - feature engineering
+  - encode
+  - train
+  - predict
+- DevOps
+
