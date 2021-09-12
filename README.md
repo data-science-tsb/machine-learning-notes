@@ -10,6 +10,9 @@ My Notebooks on How to Work With Machine Learning Projects
 - PyTorch
 - SciKitLearn
 - SageMaker
+  - distributed training
+  - distributed gpu
+  - automated model tuning
 - Process
   - data analysis
   - feature engineering
