@@ -11,12 +11,12 @@ My Notebooks on How to Work With Machine Learning Projects
   - binary
   - ordinal
 ### Measures of Locations/Centran Tendency
-- mean
-- weighted mean
+- mean: average
+  - trimmed mean: extreme values are removed
+  - weighted mean: ??
 - median
 - percentile
 - weighted median
-- trimmed mean
 - robust
 - outlier
 
