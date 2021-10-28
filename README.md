@@ -10,6 +10,15 @@ My Notebooks on How to Work With Machine Learning Projects
 - categorical
   - binary
   - ordinal
+### Measures of Locations/Centran Tendency
+- mean
+- weighted mean
+- median
+- percentile
+- weighted median
+- trimmed mean
+- robust
+- outlier
 
 ### Things that will be included here:
 - Python Libraries
