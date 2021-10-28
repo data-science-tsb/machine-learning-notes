@@ -1,6 +1,16 @@
 # Machine Learning
 My Notebooks on How to Work With Machine Learning Projects
 
+# TOC
+## Statistics
+### Data Types
+- numeric
+  - discrete
+  - continous
+- categorical
+  - binary
+  - ordinal
+
 ### Things that will be included here:
 - Python Libraries
   - pandas, numpy
