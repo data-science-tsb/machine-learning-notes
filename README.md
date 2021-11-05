@@ -43,3 +43,4 @@ My Notebooks on How to Work With Machine Learning Projects
   - CI/CD
   - deploy
 
+<test sagemaker>
