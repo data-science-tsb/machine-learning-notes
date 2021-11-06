@@ -1,0 +1,2 @@
+# End-to-End Machine Learning Project
+This is a simple machine learning project where we predict the prices of california houses based on certain features. The goal of this exercise is to get our hands dirty and try out and e2e project that we can readily use in production.
