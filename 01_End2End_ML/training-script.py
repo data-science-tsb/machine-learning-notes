@@ -28,6 +28,8 @@ if __name__ =='__main__':
 
     # ... load from args.train and args.test, train a model, write model to args.model_dir.
     
+    print(f'Input Files: {args.train}')
+    
     training_set = pd.read_csv(args.train)
     housing_features = training_set.drop('median_house_value', axis=1)
     housing_labels = training_set['median_house_value'].copy()
